@@ -1,0 +1,6 @@
+{
+  "name": "PETI UTS 2026 · Fortalecimiento de Seguridad de la Información",
+  "description": "Dashboard ejecutivo de gestión, cronograma Gantt y mapa de implementación para el proyecto de fortalecimiento de la seguridad de la información y servicios tecnológicos del PETI 2026 de las UTS (TSI604 - Grupo B193).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
